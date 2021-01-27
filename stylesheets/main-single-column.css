@@ -31,7 +31,6 @@ body {
 	margin-left: 5px;
 }
 
-
 /*
 The wrapper element contains all the elements of the page. All other elements must be put within the wrapper
 */
@@ -93,6 +92,40 @@ The wrapper element contains all the elements of the page. All other elements mu
 	text-align: left;
 }
 
+div.menu {
+	margin: 0px;
+	padding: 30px;
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+}
+
+div.menu ul {
+	float: left;
+	display: inline;
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+
+div.menu li {
+	display: inline;
+}
+
+div.menu a {
+	float: left;
+	width: 8em;
+	text-decoration: none;
+	color: silver;
+	/*background-color: purple;*/
+	padding: 0.2em 0.6em;
+	border-right: 1px solid white;
+}
+
+div.menu a:hover {
+	/*background-color: silver;*/
+	color: red;
+}
+
 #mainColumn  {
 	float: left;
 	margin: 0px;
@@ -120,6 +153,11 @@ The wrapper element contains all the elements of the page. All other elements mu
 
 #projects td{
   padding: 10px 10px;
+	font-size: 1.5em;
+}
+
+#projects li{
+  margin-left: 20px;
 	font-size: 1.5em;
 }
 
