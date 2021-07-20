@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /exhibit/2.2.0/scripts/data/importers</title>
+ </head>
+ <body>
+<h1>Index of /exhibit/2.2.0/scripts/data/importers</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=D">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th></tr><tr><th colspan="4"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/exhibit/2.2.0/scripts/data/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="authenticated-importer.js">authenticated-importer.js</a></td><td align="right">08-Mar-2009 21:28  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="exhibit-json-importer.js">exhibit-json-importer.js</a></td><td align="right">08-Mar-2009 21:28  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="html-table-importer.js">html-table-importer.js</a></td><td align="right">08-Mar-2009 21:28  </td><td align="right">6.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jsonp-importer.js">jsonp-importer.js</a></td><td align="right">08-Mar-2009 21:28  </td><td align="right">9.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="rdfa-importer.js">rdfa-importer.js</a></td><td align="right">08-Mar-2009 21:28  </td><td align="right">5.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="babel-based-importer.js">babel-based-importer.js</a></td><td align="right">10-Mar-2009 13:16  </td><td align="right">2.8K</td><td>&nbsp;</td></tr>
+<tr><th colspan="4"><hr></th></tr>
+</table>
+<address>Apache/2.2.3 (Red Hat) Server at api.simile-widgets.org Port 80</address>
+</body></html>
