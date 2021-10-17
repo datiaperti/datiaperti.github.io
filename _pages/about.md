@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /about
+permalink: /about/
 
 header:
   overlay_color: "#000"
