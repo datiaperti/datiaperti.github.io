@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Land Use and Land Cover Classification using a ResNet Deep Learning Architecture"
-categories: earth_observation remote_sensing deep_learning
-permalink: /lulc-classification-deeplearning.html
+categories: "earth_observation remote_sensing deep_learning"
+permalink: /lulc-classification.html
 # classes: wide
 header:
   overlay_color: "#000"
