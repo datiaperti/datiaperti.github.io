@@ -1,0 +1,43 @@
+# Luigi Selmi
+Luigi Selmi:
+  name             : "Luigi Selmi"
+  avatar           : "/assets/images/people/luigi-vangogh-style.jpg"
+  bio              : "Physicist and Scientific Software Developer"
+  location         : "Rome"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:luigi@datiaperti.it"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/luigiselmi"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/luigiselmi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+datiaperti:
+  name             : "datiaperti"
+  location         : "Rome"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@datiaperti.it"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/datiaperti"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/datiaperti-2432713330077236"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/datiaperti"
