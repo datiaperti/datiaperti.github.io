@@ -5,9 +5,11 @@ categories: "earth_observation remote_sensing deep_learning"
 permalink: /lulc-classification.html
 # classes: wide
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: /assets/images/splash/amazon_forest.png
+  # overlay_color: "#000"
+  # overlay_filter: "0.0"
+  # overlay_image: /assets/images/splash/amazon_forest.png
+
+image: /assets/images/splash/amazon_forest.png
 
 toc: true
 toc_label: "Table of Contents"
