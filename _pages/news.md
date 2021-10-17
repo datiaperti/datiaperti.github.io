@@ -16,7 +16,7 @@ Sometimes we find the time to contribute as well<br>
 being it a paper about a project or <br>
 documenting open source software"
 ---
-* [L. Selmi - Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1 Toolbox](https://github.com/luigiselmi/luigiselmi.github.io/blob/master/assets/sentinel-1/flood_mapping_using_sentinel-1_imagery_v1.pdf){:target="_blank"}
+* [L. Selmi - Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1 Toolbox](/assets/pdf/flood_mapping_using_sentinel-1_imagery_v1.pdf){:target="_blank"}
 * [J. Salanova Grau, E. Mitsakis, P. Tzenos, I. Stamos, L. Selmi, G. Aifadopoulou - Multisource Data Framework for Road Traffic State Estimation](https://doi.org/10.1155/2018/9078547){:target="_blank"}
 * [I. Ermilov, A. Ngonga Ngomo, A. Versteden, H. Jabeen, G. Sejdiu, G. Argyriou, L. Selmi, J. Jakobitsch, J. Lehmann - Managing Lifecycle of Big Data Applications](https://doi.org/10.1007/978-3-319-69548-8_18){:target="_blank"}
 * [L. Selmi, A. Neuroni - Fusepool P3: A Linked Data Platform for Open Government Data](https://ebooks.iospress.nl/volumearticle/40810){:target="_blank"}
